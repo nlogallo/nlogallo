@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nunzio Logallo, I study Computer Engineering at Politecnico di Milano
-- 👀 I’m interested in Computer Engineering, AI related stuff and Quantum Computing.
-- 🌱 I’m currently learning how to create programs for Quantum Computers
+- 👋 Hi, I’m Nunzio, a freelance developer and Computer Engineer 
+- 👀 I’m interested in app development, AI related stuff and Embedded Systems.
+- 🌱 I’m currently improving my knowledge in hardware accelerators and FPGAs while maintaining my mobile app "Traveltweak"
 - 💞️ I’m looking to collaborate on innovative stuff
 - 📫 How to reach me:
   * LinkedIn: https://www.linkedin.com/in/nunzio-logallo-2b00a4168/
