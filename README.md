@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nunzio, a freelance developer and Computer Engineer 
-- 👀 I’m interested in mobile app development, AI related stuff and Embedded Systems.
+- 👀 I’m interested in mobile app development, Hardware Development and Embedded Systems.
 - 🌱 I’m currently improving my knowledge in hardware programming while maintaining my mobile app "Traveltweak"
 - 💞️ I’m always looking to collaborate on open source projects
 - 📫 How to reach me:
